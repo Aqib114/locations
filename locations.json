@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "name": “Paurmiana”,
+    "lat": 33.834978524101466 ,
+    "lon": 72.77792594216714,
+    "category": “LandMark”
+
+  },
+  {
+    "id": "2",
+    "name": “Saint” Paul,
+    "lat": 33.79064693912691,
+    "lon": 72.73189209327522,
+    "category": “School”
+
+  },
+  {
+    "id": "3",
+    "name": “GRID Systems”,
+    "lat": 33.69763434393933,
+    "lon": 73.05011695186896,
+    "category": "Religious"
+
+  },
+  {
+    "id": "4",
+    "name": “GPS,
+    "lat": 33.83574370297474,
+    "lon": 72.78085718529177,
+    "category": "Garden"
+
+  }
+]
+
