@@ -27,4 +27,11 @@
     "lon": 72.78085718529177,
     "category": "Garden"
   }
+  {
+    "id": "5",
+    "name": "Home",
+    "lat": 33.79335153656815,
+    "lon": 72.73153107082425,
+    "category": "LandMark"
+  }
 ]
